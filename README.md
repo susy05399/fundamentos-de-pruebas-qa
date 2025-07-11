@@ -1,7 +1,8 @@
 # fundamentos-de-pruebas-qa
 Testeo de una página web (mapa/ localizador)
 
-📄 Revisa los casos de prueba 👉 [docs/casos_de_prueba.md](docs/casos_de_prueba.md)
+📄 Revisa los casos de prueba 👉 [docs/casos_de_prueba.md](docs/casos de prueba.md
+)
 
 # Casos de Prueba - Fundamentos del Testing
 
