@@ -3,6 +3,8 @@ Testeo de una página web (mapa/ localizador)
 
 📄 Revisa los casos de prueba 👉 [docs/casos_de_prueba.md](docs/casos_de_prueba.md)
 
+📄 Revisa los informes de errores 👉 [docs/informe_de_errores.md](docs/informe_de_errores.md)
+
 # Casos de Prueba - Fundamentos del Testing
 
 Este archivo contiene una tabla con casos de prueba manuales desarrollados durante el primer sprint de la especialidad en QA.
